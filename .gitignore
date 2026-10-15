@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Logs
+*.log
+car_run*.log
+
+# OS / IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Note: face_landmarker.task (~3.7MB) is intentionally TRACKED
+# so clones work offline. controler.py auto-downloads it if missing.
